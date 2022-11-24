@@ -3,10 +3,10 @@
 ### CST 150
 
 Video Presentation of activity:
-[Loom video](https://www.loom.com/share/f9ff5d659e6a4e948d639fb608630de7)
+[Loom video](https://www.loom.com/share/813f39d1032c4245825075d8733976de)
 
 Screenshots available in 
-[/gcu/img/](https://github.com/jmdalton0/cst150-act7/tree/main/gcu/img)
+[/gcu/img/](https://github.com/jmdalton0/cst150-act8/tree/main/gcu/img)
 
 ### Calculate Calories
 Simple Windows Form Application to calculate the number of calories consumed based on the number of grams of fat and carbs.
